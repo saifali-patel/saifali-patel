@@ -1,6 +1,6 @@
 ### 👋🏽 Hi, my name is Saifali
 
-🎓 Soon to be grad with a Bachelor's of Engineering in Computer Science with a passion for solving problems through Data driven approaches.
+🎓 Graduate with a Bachelor's of Engineering in Computer Science with a passion for solving problems through Data driven approaches.
 
 Feel free to check out my projects here ! 
 
