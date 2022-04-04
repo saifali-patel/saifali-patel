@@ -1,13 +1,23 @@
 ### 👋🏽 Hi, my name is Saifali
 
-🎓 Graduate with a Bachelor's of Engineering in Computer Science with a passion for solving problems through Data driven approaches.
+🎓 I am Computer Science Engineer with a passion for solving problems through Data driven approaches.
 
 Feel free to check out my projects here ! 
 
-💪🏽 My strengths include : Data Science , Data Analytics , Story Telling through Data Visualization, Data Analysis , Machine Learning Model Implementations , Improving Machine Learning Models , 
-Deep Learning and Sentiment Analysis.
+💪🏽 My strengths include :
+▪️ Data Science and Data Analysis 
+▪️ Story Telling through Data Visualization
+▪️ Implementing Machine Learning Models 
+▪️ Tuning Machine Learning Learning Models
+▪️ Sentiment Analysis 
+▪️ Natural Language Processing
+▪️ Information Retrieval / Clustering / Semantic Search / Question Answering
 
-I am forever ready to talk about Data Science, Machine Learning, Tech or simply discussing watchlist recommendations - please feel free to reach out
+📚 I have proved my skills by working on various projects in the field of Data Science ,Deep Learning ,Sentiment Analysis, NLP and Machine Learning.
+
+💻 I hope to one day work as a Data Scientist or in a Machine Learning Engineer role and work with a diverse team where I can contribute and learn more.
+
+I am forever ready to talk about Data Science, Machine Learning, Tech or simply to discuss watchlist recommendations - please feel free to reach out
 
 <!--
 **saifali-patel/saifali-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
