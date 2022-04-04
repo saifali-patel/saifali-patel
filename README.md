@@ -17,7 +17,7 @@ Feel free to check out my projects here !
 
 💻 I hope to one day work as a Data Scientist or in a Machine Learning Engineer role and work with a diverse team where I can contribute and learn more.
 
-I am forever ready to talk about Data Science, Machine Learning, Tech or simply to discuss watchlist recommendations - please feel free to reach out
+I am forever ready to talk about Data Science, Machine Learning, Tech or simply to discuss watchlist recommendations - please feel free to reach out!
 
 <!--
 **saifali-patel/saifali-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
