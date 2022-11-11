@@ -5,17 +5,22 @@
 Feel free to check out my projects here ! 
 
 💪🏽 My strengths include :
-▪️ Data Science and Data Analysis 
+▪️ Data Analysis 
 ▪️ Story Telling through Data Visualization
+▪️ Tableau Certified Desktop Specialist
+▪️ Dashboards
+▪️ Python
 ▪️ Implementing Machine Learning Models 
 ▪️ Tuning Machine Learning Learning Models
 ▪️ Sentiment Analysis 
 ▪️ Natural Language Processing
 ▪️ Information Retrieval / Clustering / Semantic Search / Question Answering
+▪️ Microsoft Excel
+▪️ SQL 
 
-📚 I have proved my skills by working on various projects in the field of Data Science ,Deep Learning ,Sentiment Analysis, NLP and Machine Learning.
+📚 I have worked on various projects in the field of Data Science ,Deep Learning ,Sentiment Analysis, NLP and Machine Learning.
 
-💻 I hope to one day work as a Data Scientist or in a Machine Learning Engineer role and work with a diverse team where I can contribute and learn more.
+💻 I hope to one day work as a Business Intelligence/Data Scientist/Analyst role and work with a diverse team where I can contribute and learn more.
 
 I am forever ready to talk about Data Science, Machine Learning, Tech or simply to discuss watchlist recommendations - please feel free to reach out!
 
